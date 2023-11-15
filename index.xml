@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MorePeering</title>
+    <link>https://crixhub.github.io/</link>
+    <description>Recent content on MorePeering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://crixhub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://crixhub.github.io/aboutus/</link>
+      <pubDate>Mon, 03 Jun 2019 21:51:13 +0100</pubDate>
+      <guid>https://crixhub.github.io/aboutus/</guid>
+      <description>foobar</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>https://crixhub.github.io/contactus/</link>
+      <pubDate>Mon, 03 Jun 2019 21:51:13 +0100</pubDate>
+      <guid>https://crixhub.github.io/contactus/</guid>
+      <description>foobar</description>
+    </item>
+    <item>
+      <title>Locations</title>
+      <link>https://crixhub.github.io/locations/</link>
+      <pubDate>Mon, 03 Jun 2019 21:51:13 +0100</pubDate>
+      <guid>https://crixhub.github.io/locations/</guid>
+      <description>foobar</description>
+    </item>
+    <item>
+      <title>Pricing</title>
+      <link>https://crixhub.github.io/pricing/</link>
+      <pubDate>Mon, 03 Jun 2019 21:51:13 +0100</pubDate>
+      <guid>https://crixhub.github.io/pricing/</guid>
+      <description>foobar</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>https://crixhub.github.io/services/</link>
+      <pubDate>Mon, 03 Jun 2019 21:51:13 +0100</pubDate>
+      <guid>https://crixhub.github.io/services/</guid>
+      <description>foobar</description>
+    </item>
+  </channel>
+</rss>
